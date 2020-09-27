@@ -1,5 +1,8 @@
 # world-map-insight
 
+## Used Technologies 
+Nuxtjs(vue) , vuetify , Restapi
+
 ## Build Setup
 
 ```bash
